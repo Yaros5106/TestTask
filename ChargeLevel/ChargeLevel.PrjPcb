@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SYWGXQXC
 
 [Document2]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=ChargeLevel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1059,8 +1059,8 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
-SortLocation=0
+SortOrder=1
+SortLocation=1
 ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
